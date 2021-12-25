@@ -3,10 +3,10 @@ library(twitteR)
 library(rtweet)
 
 
-consumer_key <- "wiJwVV220Sn3yNfPzP8lTZShv"
-consumer_secret <- "6itM1It8Bb4DlLMlrAE9wSQg3vKm7n9LX6TZa1qRe23lCb2AKP"
-access_token <- "855277884713218049-kD6xntWAjZGphqVJE95NKuuVz8IQ0MK"
-access_secret <- "oyQPd7oAcLO7XbPbRjbsRz1WD0hWL46qKftmeM7Gq37L5"
+consumer_key <- "*****"
+consumer_secret <- "*****"
+access_token <- "*****"
+access_secret <- "*****"
 
 setup_twitter_oauth(consumer_key, consumer_secret, 
                     access_token, access_secret)
